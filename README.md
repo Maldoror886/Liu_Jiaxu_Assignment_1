@@ -2,7 +2,7 @@
 This is my first assignment 
 
 # 1056_Assignment_1_Folder_Set_Up
-It includes css, js, image, include, assets,index.html.Also, there are 3 PDFs in the assets folder.
+It includes css, js, image, include, assets, index.html. Also, there are 2 PDFs in the assets folder.
 
 # MIT License
 
